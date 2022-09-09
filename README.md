@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonnathan Alvarez Navarrete
-- 👀 I’m interested in learn Frontend
+- 👀 I’m interested in learn cloud computing AWS.
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on any protect
 - 📫 How to reach me ...@Tathan1191
