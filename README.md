@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi there, I'm Jonnathan Alvarez Navarrete 👋<br>☁️ I’m a cloud applications and services programming technician<br>Based in Cali 🇨🇴 (Colombia).<br>I have a passion for Cloud Technology and enjoy working on Databases analysis and admin.<br><br>🔭 Current projects on <br>[Project 1](Link to project on GitHub)<br>[Project 2](Link to project on GitHub)<br><br>🌱 I’m currently learning Java and Phyton<br><br>💬 Ask me about<br><br><br>📫 Email: jonnathan_alvarez@soy.sena.edu.co<br><br>⚡ Fun fact: knock knock
+Hi there, I'm Jonnathan Alvarez Navarrete 👋<br>
+☁️ I’m a cloud applications and services programming technician <br>Based in Cali 🇨🇴 (Colombia).<br>I have a passion for Cloud Technology and enjoy working on Databases analysis and admin.<br>
+Passionate about martial arts 🥋 and motorcycling 🏍️<br>
+
+<br>🔭 Current projects on <br>
+[Project 1](Link to project on GitHub)<br>
+[Project 2](Link to project on GitHub)<br>
+<br>🌱 I’m currently learning Java and Phyton<br>
+<br>💬 Ask me about life <br>
+<br><br>📫 Email: jonnathan_alvarez@soy.sena.edu.co<br><br>⚡ 
 
 
 ## 🌐 Socials:
