@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :jinja: :partyparrot: About Me:
 Hi there, I'm Jonnathan Alvarez Navarrete 👋<br>
 ☁️ I’m a cloud applications and services programming technician <br>Based in Cali 🇨🇴 (Colombia).<br>I have a passion for Cloud Technology and enjoy working on Databases analysis and admin.<br>
 Passionate about martial arts 🥋 and motorcycling 🏍️<br>
