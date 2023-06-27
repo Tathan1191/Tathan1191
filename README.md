@@ -24,12 +24,6 @@ Passionate about martial arts 🥋 and motorcycling 🏍️<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Tathan1191&icon=5&color=8)](https://visitcount.itsvg.in)
-
   ## 💰 Donate
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/tathan1191) 
 
