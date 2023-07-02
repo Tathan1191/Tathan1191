@@ -1,12 +1,12 @@
 # 🥷About Me:
 Hi there, I'm Jonnathan Alvarez Navarrete 👋<br>
-☁️ I’m a cloud applications and services programming technician <br>Based in Cali 🇨🇴 (Colombia).<br>I have a passion for Cloud Technology and enjoy working on Databases analysis and admin.<br>
+☁️ I’m a cloud applications and services programming technician <br>Based in Cali 🇨🇴 (Colombia).<br>I have a passion for Cloud Technology and enjoy working on Data Analysis and dashboards.<br>
 Passionate about martial arts 🥋 and motorcycling 🏍️<br>
 
 
-<br>🌱 I’m currently learning Java and Phyton<br>
+<br>🌱👨🏻‍💻 I’m currently working on the following projects: <br>
 
-<br>💬 Ask me: <br>
+<br>💬 Get in touch via Whatsapp: +57 3004242563 <br>
 <br><br>📫 Email: alvarezjonnathan@gmail.com<br><br>⚡ 
 
 
