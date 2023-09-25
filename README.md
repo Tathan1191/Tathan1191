@@ -1,6 +1,6 @@
 # 🥷About Me:
 Hi there, I'm Jonnathan Alvarez Navarrete 👋<br>
-☁️ I’m a cloud applications and services programming technician <br>Based in Cali 🇨🇴 (Colombia).<br>I have a passion for Cloud Technology and enjoy working on Data Analysis and dashboards.<br>
+☁️ I’m a Data Analyst and cloud applications and services programming technician <br>Based in Cali 🇨🇴 (Colombia).<br>I have a passion for Cloud Technology and enjoy working on Data Analysis and dashboards.<br>
 Passionate about martial arts 🥋 and motorcycling 🏍️<br>
 
 
