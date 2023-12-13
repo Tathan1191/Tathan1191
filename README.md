@@ -21,8 +21,8 @@ Passionate about martial arts 🥋 and motorcycling 🏍️<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tathan1191&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+✍️ **Random Dev Quote**
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
   ## 💰 Donate
