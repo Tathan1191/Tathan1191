@@ -1,8 +1,11 @@
 # 🥷About Me:
 Hi there, I'm Jonnathan Alvarez Navarrete 👋<br>
-☁️ I’m a Data Analyst with knowledge of Data Engineering processes, Associate Degree as Cloud Applications and Services Programming Technician <br>Based in Cali 🇨🇴 (Colombia).<br>I have a passion for Cloud Technology and enjoy working on visualization dashboards.<br>
+☁️ I’m a Data Analyst with knowledge of Data Engineering processes<br>
+Associate Degree as Cloud Applications and Services Programming Technician <br>Based in Cali 🇨🇴 (Colombia).<br>
 
-Passionate about martial arts 🥋 and motorcycling 🏍️<br>
+Passionate for Cloud Technology and enjoy working on visualization dashboards.<br>
+
+I love martial arts 🥋 and motorcycling 🏍️<br>
 
 
 <br>💬 Get in touch via Whatsapp: +57 3004242563 <br>
@@ -24,11 +27,6 @@ Passionate about martial arts 🥋 and motorcycling 🏍️<br>
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-  ## 💰 Donate
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/tathan1191) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 Tathan1191/Tathan1191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
